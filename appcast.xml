@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SSHMgr 更新</title>
+    <link>https://gaoxing520.github.io/sshmgr-updates/appcast.xml</link>
+    <description>SSHMgr 最新版本</description>
+    <language>zh-CN</language>
+
+    <item>
+      <title>版本 1.0</title>
+      <pubDate>Thu, 14 May 2026 23:54:41 +0800</pubDate>
+      <sparkle:version>1.0</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+      <h2>版本 1.0 更新内容</h2>
+      <ul><li>软件初始版本</li></ul>
+    ]]></description>
+      <enclosure
+              url="https://github.com/gaoxing520/sshmgr-updates/releases/download/v1.0/SSHMgr-1.0.zip"
+              sparkle:edSignature="nZSlt9QGN1qbXgO92FfwU3qrCR5PqdU66NLzo9rsIUVwVG4rgw/oqbNTOMypfRxKk/ETYbIlN8rxCdhu6arjBw=="
+              length="11546353"
+              type="application/octet-stream"/>
+    </item>
+
+  </channel>
+</rss>
