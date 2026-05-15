@@ -9,6 +9,28 @@
     <language>zh-CN</language>
 
     <item>
+      <title>版本 1.1.0</title>
+      <pubDate>Thu, 15 May 2026 09:38:00 +0800</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+      <h2>版本 1.1.0 更新内容</h2>
+      <ul>
+        <li>新增 Sparkle 自动更新支持</li>
+        <li>备份导出支持 AES-256-GCM 加密</li>
+        <li>导出包含 Snippets 和 SSH 公钥元数据</li>
+        <li>修复 Sparkle 沙盒 XPC 权限问题</li>
+      </ul>
+    ]]></description>
+      <enclosure
+              url="https://github.com/gaoxing520/sshmgr-updates/releases/download/v1.1.0/SSHMgr-1.1.0.zip"
+              sparkle:edSignature="Ar4X2a1YiTzOoHvni4+PAAn1h6U9qHMLVrN71k3gJ1kOL+OpoEhWqR5iAhwc+zQtU4vQB1n6kM1QTqOfuIBNBg=="
+              length="11556781"
+              type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>版本 1.0</title>
       <pubDate>Thu, 14 May 2026 23:54:41 +0800</pubDate>
       <sparkle:version>1.0</sparkle:version>
