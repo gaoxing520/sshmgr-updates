@@ -102,20 +102,37 @@
               type="application/octet-stream"/>
     </item>
 
-  <item>
-    <title>版本 1.2.0</title>
-    <pubDate>Sat, 16 May 2026 08:43:49 +0800</pubDate>
-    <sparkle:version>1.2.0</sparkle:version>
-    <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-    <description><![CDATA[
+    <item>
+      <title>版本 1.2.0</title>
+      <pubDate>Sat, 16 May 2026 08:43:49 +0800</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
       <h2>版本 1.2.0 更新内容</h2>
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
+      <enclosure
+              url="https://github.com/gaoxing520/sshmgr-updates/releases/download/v1.2.0/SSHMgr-1.2.0.zip"
+              sparkle:edSignature="JISjULPcuBmE1e0y/3mapzVM4mwoxXJS/loAJ87bu4GryTIYZclyfqmnU46T3iTN+0JMmMViKpKpxKCJBGxECA=="
+              length="11593591"
+              type="application/octet-stream"/>
+    </item>
+
+  <item>
+    <title>版本 1.2.1</title>
+    <pubDate>Sat, 16 May 2026 09:34:38 +0800</pubDate>
+    <sparkle:version>1.2.1</sparkle:version>
+    <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    <description><![CDATA[
+      <h2>版本 1.2.1 更新内容</h2>
+      <ul><li>请填写更新说明</li></ul>
+    ]]></description>
     <enclosure
-      url="https://github.com/gaoxing520/sshmgr-updates/releases/download/v1.2.0/SSHMgr-1.2.0.zip"
-      sparkle:edSignature="JISjULPcuBmE1e0y/3mapzVM4mwoxXJS/loAJ87bu4GryTIYZclyfqmnU46T3iTN+0JMmMViKpKpxKCJBGxECA=="
-      length="11593591"
+      url="https://github.com/gaoxing520/sshmgr-updates/releases/download/v1.2.1/SSHMgr-1.2.1.zip"
+      sparkle:edSignature="RgWP89AbfgQS0gK28COYQhNqLnn7EC922u6tWdsjlQJb5ewb+ym7iiHZAzZF8AoWFA161KIVwu7Ti3qsWdvDAg=="
+      length="11593844"
       type="application/octet-stream"/>
   </item>
   </channel>
