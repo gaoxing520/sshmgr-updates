@@ -206,7 +206,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://gaoxing520.github.io/sshmgr-updates/releases/SSHMgr-1.3.2.zip"
+                    url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.2.zip"
                     sparkle:edSignature="IZ1CtJ8eSzvvjkAZ3WJhJ1dioqwHHswainC9JcTASONga1fnMVsyZMsMsZlBn/M8N4HQ17FMpt2nOtrXNWaZCA=="
                     length="11583474"
                     type="application/octet-stream"/>
