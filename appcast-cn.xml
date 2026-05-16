@@ -4,7 +4,7 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>SSHMgr 更新</title>
-        <link>https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/appcast-cn.xml</link>
+        <link>https://sshmgr-updates-xts84hrb.edgeone.cool/appcast-cn.xml</link>
         <description>SSHMgr 最新版本</description>
         <language>zh-CN</language>
 
@@ -19,7 +19,7 @@
       <ul><li>软件初始版本</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.0.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.0.zip"
                     sparkle:edSignature="nZSlt9QGN1qbXgO92FfwU3qrCR5PqdU66NLzo9rsIUVwVG4rgw/oqbNTOMypfRxKk/ETYbIlN8rxCdhu6arjBw=="
                     length="11546353"
                     type="application/octet-stream"/>
@@ -41,7 +41,7 @@
       </ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.1.0.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.1.0.zip"
                     sparkle:edSignature="Ar4X2a1YiTzOoHvni4+PAAn1h6U9qHMLVrN71k3gJ1kOL+OpoEhWqR5iAhwc+zQtU4vQB1n6kM1QTqOfuIBNBg=="
                     length="11556781"
                     type="application/octet-stream"/>
@@ -62,7 +62,7 @@
       </ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.1.1.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.1.1.zip"
                     sparkle:edSignature="UPNHVh4zyGPM9NdS1FqkTMV7cY0f6fRrYWK13kHLTuouWyJa0TI1r0zQGE/881r6I3NzzmuosD08MC6R9DNDAg=="
                     length="11589714"
                     type="application/octet-stream"/>
@@ -79,7 +79,7 @@
         <ul><li>请填写更新说明</li></ul>
       ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.1.2.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.1.2.zip"
                     sparkle:edSignature="q0Jv4wyUqBUpC1WLO+QXuVAiH38qheLgIraW0yF5ofrtHspO2B8SJr7jn8zPSoTxVIWdU+80N38Vju0WMJKIDg=="
                     length="11589715"
                     type="application/octet-stream"/>
@@ -96,7 +96,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.1.3.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.1.3.zip"
                     sparkle:edSignature="u5+M9wVKWTmkljA7xWERHY3sGEtYVy5i3r1Th4GXjxrdBNA6iWF6Q0wJAjyB5gqiMcBwZ7uj4A//v5YqcdcsBg=="
                     length="11589713"
                     type="application/octet-stream"/>
@@ -113,7 +113,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.2.0.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.2.0.zip"
                     sparkle:edSignature="JISjULPcuBmE1e0y/3mapzVM4mwoxXJS/loAJ87bu4GryTIYZclyfqmnU46T3iTN+0JMmMViKpKpxKCJBGxECA=="
                     length="11593591"
                     type="application/octet-stream"/>
@@ -130,7 +130,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.2.1.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.2.1.zip"
                     sparkle:edSignature="RgWP89AbfgQS0gK28COYQhNqLnn7EC922u6tWdsjlQJb5ewb+ym7iiHZAzZF8AoWFA161KIVwu7Ti3qsWdvDAg=="
                     length="11593844"
                     type="application/octet-stream"/>
@@ -147,7 +147,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.2.2.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.2.2.zip"
                     sparkle:edSignature="d9RS9tx9pgKAqkLcfHRoBG5RepxQ9GdQaIIWuHn+sSieS760lordWRAYeQs6dSJmJKeDkkqpQ+u0HwY3yyEXDg=="
                     length="11593708"
                     type="application/octet-stream"/>
@@ -164,7 +164,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.2.3.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.2.3.zip"
                     sparkle:edSignature="yjfV0zAtOYGBZV+fDcK3f7iZMxtpNgtleZI2MmLaggMkQLdBSRXZDwzxIELGsWECwoytcOzHCf8gQDoZ0hioBQ=="
                     length="11593833"
                     type="application/octet-stream"/>
@@ -181,7 +181,7 @@
       <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
-                    url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.3.0.zip"
+                    url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.3.0.zip"
                     sparkle:edSignature="wIbeZ7iyHSAtMpKcMmde2bcgOo8bKuI/EXQ18dGMqdryADOZPMOy0S5OyKSXZxg4ETT2YeB1HQRfvRc/zGQFAA=="
                     length="11593837"
                     type="application/octet-stream"/>
@@ -199,9 +199,9 @@
       <ul><li>修复 DynamicForward 端口绑定权限问题</li></ul>
     ]]></description>
     <enclosure
-      url="https://sshmgr-updates-g7rcuvi9rv.edgeone.cool/releases/SSHMgr-1.3.1.zip"
-      sparkle:edSignature="ZT0HQjk1eNyH+zrgz/fkDt1H4+KjmmLsVMl1fyI61JM4i6kIvqQ7J4oz6R8lNf13+Y7KD3kKW4xfj5jdESu3Aw=="
-      length="11593843"
+      url="https://sshmgr-updates-xts84hrb.edgeone.cool/releases/SSHMgr-1.3.1.zip"
+      sparkle:edSignature="mR9Y/Kdd9XbA6YfOgWke0JK0pfEEPokUPkUP/hlwwXOqjpXIH0bYz0uRqpBLOnAZqgUREP0M4woK8sH4YmU4BA=="
+      length="11593827"
       type="application/octet-stream"/>
   </item>
 </rss>
