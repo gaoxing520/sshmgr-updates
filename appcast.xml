@@ -197,7 +197,7 @@
 
         <item>
             <title>版本 1.3.2</title>
-            <pubDate>Fri, 22 May 2026 13:50:10 +0800</pubDate>
+            <pubDate>Fri, 22 May 2026 13:53:25 +0800</pubDate>
             <sparkle:version>1.3.2</sparkle:version>
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -207,8 +207,8 @@
     ]]></description>
             <enclosure
                     url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.2.zip"
-                    sparkle:edSignature="1OmR3qBzyNYs6HYGXv8RCHPX5fGg4C9cLVnjLWRiqFeS47mWReXwaWEsvKHfWyM+/JUIq/D4XAaN747tzg0YAA=="
-                    length="12333145"
+                    sparkle:edSignature="xebRBUu1h9E2ij/4SBuQS85ydThO4OKSRcZ3Qy9aB/ihocTC1rWI9Dm4Pl7/86Z+nOcDBYQ8z7nQq7v0RUSvAw=="
+                    length="12333144"
                     type="application/octet-stream"/>
         </item>
 
