@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SSHMgr - macOS SSH 连接管理工具</title>
-    <meta name="description" content="SSHMgr 是一款 macOS SSH 连接管理工具，支持端口转发、SOCKS5 代理、内置终端等功能">
+    <meta name="description"
+          content="SSHMgr 是一款 macOS SSH 连接管理工具，支持端口转发、SOCKS5 代理、内置终端、SFTP、Pipeline 等功能">
     <style>
         * {
             margin: 0;
@@ -117,9 +118,10 @@
         }
 
         .hero .subtitle {
-            font-size: 1rem;
+            font-size: 0.95rem;
             color: var(--text-secondary);
             opacity: 0.8;
+            line-height: 1.8;
         }
 
         /* 下载按钮 */
@@ -219,6 +221,17 @@
             font-size: 0.95rem;
         }
 
+        .feature-card ul {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 8px;
+            padding-left: 18px;
+        }
+
+        .feature-card li {
+            margin-bottom: 4px;
+        }
+
         /* 系统要求 */
         .requirements {
             margin: 60px 0;
@@ -306,10 +319,12 @@
     <div class="container">
         <!-- Hero -->
         <section class="hero">
-            <div class="logo">SSH</div>
             <h1>SSH<span>Mgr</span></h1>
             <p class="tagline">macOS SSH 连接管理工具</p>
-            <p class="subtitle">内置 SSH 连接管理 · (本地/远端/动态)端口转发 · SOCKS5 代理 · 内置终端 · 组管理 · 密钥管理 · 书签管理 ·  Snippet 支持 · 配置导入导出</p>
+            <p class="subtitle">
+                内置 SSH 连接 · 端口转发 · SOCKS5 代理 · 内置终端 · SFTP 文件浏览<br>
+                分组管理 · SSH 密钥管理 · 代理书签 · 代码片段 · Pipeline 流水线 · 便签管理 · 备份恢复 · 配置导入导出
+            </p>
         </section>
 
         <!-- Download -->
@@ -332,32 +347,74 @@
                 <div class="feature-card">
                     <div class="feature-icon">🔌</div>
                     <h3>内置 SSH 连接</h3>
-                    <p>纯 Swift SSH 实现，不依赖系统 ssh，连接管理完全内置，支持 ProxyJump 多级跳板</p>
+                    <p>纯 Swift SSH 实现，不依赖系统 ssh</p>
+                    <ul>
+                        <li>支持 ProxyJump 多级跳板</li>
+                        <li>连接状态实时监控</li>
+                    </ul>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">🔐</div>
                     <h3>可视化配置编辑</h3>
-                    <p>50+ SSH 选项选择器带中文说明，无需手动编辑配置文件，支持多种身份文件</p>
+                    <p>50+ SSH 选项选择器带中文说明</p>
+                    <ul>
+                        <li>多身份文件支持</li>
+                        <li>端口转发可视化配置</li>
+                    </ul>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">🌐</div>
                     <h3>端口转发管理</h3>
-                    <p>本地转发、远程转发、动态转发（SOCKS5）可视化配置，支持多条转发规则</p>
+                    <p>本地转发、远程转发、动态转发（SOCKS5）</p>
+                    <ul>
+                        <li>支持多条转发规则</li>
+                        <li>PAC 文件自动生成</li>
+                    </ul>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">📁</div>
                     <h3>代理书签 (PAC)</h3>
-                    <p>DynamicForward 集成，PAC 文件自动生成，智能匹配规则，Chrome 隔离模式</p>
+                    <p>DynamicForward 集成，智能匹配规则</p>
+                    <ul>
+                        <li>Chrome 隔离模式</li>
+                        <li>书签统一管理</li>
+                    </ul>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">💻</div>
-                    <h3>内置终端</h3>
-                    <p>多标签页支持，快捷键操作，自动复用已有连接，支持 SFTP 文件浏览</p>
+                    <h3>内置终端 & SFTP</h3>
+                    <p>多标签页终端，SFTP 文件浏览器</p>
+                    <ul>
+                        <li>快捷键操作</li>
+                        <li>文件上传下载</li>
+                    </ul>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">⚡</div>
-                    <h3>代码片段</h3>
-                    <p>可重用的命令模板，全局/分组/主机级别作用域，支持变量替换</p>
+                    <h3>代码片段 & Pipeline</h3>
+                    <p>可重用的命令模板，批量执行流水线</p>
+                    <ul>
+                        <li>变量替换支持</li>
+                        <li>顺序/并行执行</li>
+                    </ul>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔑</div>
+                    <h3>SSH 密钥管理</h3>
+                    <p>密钥生成、导入、安全存储</p>
+                    <ul>
+                        <li>ED25519/RSA 等算法</li>
+                        <li>Keychain 安全存储</li>
+                    </ul>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>备份恢复 & 导入</h3>
+                    <p>加密备份，跨设备迁移</p>
+                    <ul>
+                        <li>SSH Config 导入</li>
+                        <li>剪贴板复制粘贴</li>
+                    </ul>
                 </div>
             </div>
         </section>
