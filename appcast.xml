@@ -246,5 +246,22 @@
                     type="application/octet-stream"/>
         </item>
 
+        <item>
+            <title>版本 1.3.7</title>
+            <pubDate>Tue, 26 May 2026 19:20:37 +0800</pubDate>
+            <sparkle:version>1.3.7</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+      <h2>版本 1.3.7 更新内容</h2>
+      <ul><li>请填写更新说明</li></ul>
+    ]]></description>
+            <enclosure
+                    url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.7.zip"
+                    sparkle:edSignature="qoUXz6PQ6HbPTmRq7ZFs8Kh+0UEbS71yrhNeGId1DK13tOlpTsSPoI7ULm0Dthmuf7xOMsNQDsH/92LleqCKDQ=="
+                    length="12343747"
+                    type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
