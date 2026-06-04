@@ -16,7 +16,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
       <h2>版本 1.3.7 更新内容</h2>
-            <ul><li>请填写更新说明</li></ul>
+                  <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
                     url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.7.zip"
@@ -33,7 +33,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
       <h2>版本 1.3.9 更新内容</h2>
-            <ul><li>请填写更新说明</li></ul>
+                  <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
                     url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.9.zip"
@@ -50,7 +50,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
       <h2>版本 1.3.10 更新内容</h2>
-            <ul><li>请填写更新说明</li></ul>
+                  <ul><li>请填写更新说明</li></ul>
     ]]></description>
             <enclosure
                     url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.10.zip"
@@ -67,16 +67,38 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
       <h2>SSHMgr 1.3.11 更新内容</h2>
-      <h3>Changed</h3>
-      <ul>
-        <li>支持 host alias 级联修改</li>
-        <li>支持按分组批量删除host</li>
-      </ul>
+            <h3>Changed</h3>
+            <ul>
+              <li>支持 host alias 级联修改</li>
+              <li>支持按分组批量删除host</li>
+            </ul>
     ]]></description>
             <enclosure
                     url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.11.zip"
                     sparkle:edSignature="OV6ZujyEud1RXHooh1bgsyTdQkiLRtQwwL42czNRBmEzaTgkhq5mZkC8i52jjSw+i3g1nb0/cuD3AC6v8TJAAQ=="
                     length="12389295"
+                    type="application/octet-stream"/>
+        </item>
+
+        <item>
+            <title>版本 1.3.12</title>
+            <pubDate>Thu, 04 Jun 2026 22:31:08 +0800</pubDate>
+            <sparkle:version>1.3.12</sparkle:version>
+            <sparkle:shortVersionString>1.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+      <h2>SSHMgr 1.3.12 更新内容</h2>
+      <h3>Changed</h3>
+      <ul>
+        <li>修复控制台多行拷贝问题</li>
+        <li>支持控制台分屏</li>
+        <li>支持流水线功能</li>
+      </ul>
+    ]]></description>
+            <enclosure
+                    url="https://sshmgr.20140620.xyz/releases/SSHMgr-1.3.12.zip"
+                    sparkle:edSignature="qvLQs2u99VYiC+AiTN4O3uzoUiQM5qkdCPKMD0tSln9IhZlophgRBldtu7h5py05sCaeoKJyvivChrMIuXWdBg=="
+                    length="12540419"
                     type="application/octet-stream"/>
         </item>
 
